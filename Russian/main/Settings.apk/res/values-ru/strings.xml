@@ -2727,8 +2727,8 @@
     <string name="bird_hand_title">Режим под правую или левую руку</string>
     <string name="lewa_applock_title">Блокировка приложений</string>
     <string name="lewa_applock_summary">Необходимо задать пароль перед блокировкой</string>
-    <string name="two_finger_update_brightness">Обновление яркости двумя пальцами</string>
-    <string name="two_finger_update_brightness_description">Для обновления яркости двигайте двумя пальцами по экрану</string>	
+    <string name="two_finger_update_brightness">Изменение яркости двумя пальцами</string>
+    <string name="two_finger_update_brightness_description">Яркость меняется свайпом двумя пальцами вверх или вниз по экрану</string>	
     <string name="locale_language_zh_cn">Китайский (упрощ.)</string>
     <string name="locale_language_zh_tw">Китайский</string>
     <string name="locale_language_en">Английский</string>
