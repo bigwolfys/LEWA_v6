@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Обратная связь</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="because_of_concerns_about">о приложении</string>
+    <string name="so_listen">Так что</string>
+    <string name="thank_for_your_feedback">Спасибо что помогаете сделать Lewa лучше</string>
+    <string name="system_app">Системные приложения</string>
+    <string name="non_system_app">Пользовательские приложения</string>	
+    <string name="serach_app">Пожалйста введите название приложения для поиска</string>
+    <string name="loading_application_information">Загрузка информации о приложении, пожалуйста, подождите</string>
+    <string name="loading_question">Добавлен FAQ, пожалуйста подождите</string>
+    <string name="frequently_asked_questions">Описание проблемы</string>
+    <string name="commit">Отправить</string>
+    <string name="add_screenshots">Добавить скриншоты (не более 5 скриншотов):</string>
+    <string name="enter_problem">Если Вашего вопроса нет в часто задаваемых, пожалуйста, введите Ваш вопрос</string>
+    <string name="abandon_this_operation">Операция отменена</string>
+    <string name="unsave">Операция не сохранится,точно отменить эту операцию?</string>
+    <string name="cancle">Отменить</string>
+    <string name="confirm_abandonment">Отказаться</string>
+    <string name="committing">Отправляется...</string>
+    <string name="text_score"> в настоящее время используется оценка системы</string>
+    <string name="text_problem"> пожалуйста скажите нам что вы думаете о текущей версии и рекомендуете</string>
+    <string name="loading">загружается, пожалуйста подождите...</string>
+    <string name="connect_error"> Ошибка подключения, убедитесь, что сеть работает правильно</string>
+    <string name="ok">ok</string>
+    <string name="uploaded_successfully">Ваш отзыв был успешно отправлен, спасибо</string>
+    <string name="error">Ошибка</string>
+    <string name="error_args">Требуемый параметр отсутствует</string>
+    <string name="error_server">Серверные ошибки, обратитесь к администратору сервера</string>
+    <string name="error_upload_type">Тип загрузки не допускается</string>
+    <string name="error_upload_size">Слишком большой размер</string>
+    <string name="error_sign">Ошибка подписи</string>
+    <string name="error_repeat">Ошибка повторного отправления</string>
+    <string name="error_unknow">Неизвестная ошибка, пожалуйста, свяжитесь с разработчиками</string>
+    <string name="label">Обратная связь</string>
+    <string name="null_commit">Пожалуйста введите ваш отзыв или добавить скриншоты</string>
+    <string name="time_out">Истекло время ожидания подключения</string>
+    <string name="network_setting">Параметры сети</string>
+    <string name="network_refresh">Обновить</string>
+    <string name="network_text">Сбой сетевого соединения</string>
+</resources>
