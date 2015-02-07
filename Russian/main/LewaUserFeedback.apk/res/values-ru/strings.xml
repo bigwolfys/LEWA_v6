@@ -20,8 +20,8 @@
     <string name="cancle">Отменить</string>
     <string name="confirm_abandonment">Отказаться</string>
     <string name="committing">Отправляется...</string>
-    <string name="text_score"> в настоящее время используется оценка системы</string>
-    <string name="text_problem"> пожалуйста скажите нам что вы думаете о текущей версии и рекомендуете</string>
+    <string name="text_score">Как Вы оцениваете систему в настоящее время</string>
+    <string name="text_problem"> пожалуйста напишите нам что вы думаете о текущей версии или рекомендуете сделать</string>
     <string name="loading">загружается, пожалуйста подождите...</string>
     <string name="connect_error"> Ошибка подключения, убедитесь, что сеть работает правильно</string>
     <string name="ok">ok</string>
