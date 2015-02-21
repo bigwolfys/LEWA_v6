@@ -3078,4 +3078,5 @@
     <string name="em_settings_adb_title">Тонкая настройка параметров телефона</string>
     <string name="two_finger_update_brightness">Изменение яркости двумя пальцами</string>
     <string name="two_finger_update_brightness_description">Яркость меняется свайпом двумя пальцами вверх или вниз по экрану</string>
+	<string name="adblock">Блокировка рекламы</string>
 </resources>
