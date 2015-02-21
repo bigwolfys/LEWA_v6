@@ -193,9 +193,6 @@
     <string name="hdmi_audio_toggler">Аудио</string>
     <string name="hdmi_video_toggler">Видео</string>
     <string name="hdmi_video_resolution">Разрешение видео</string>
-
-
-
     <string name="display_settings_scences_title">Сцены</string>
     <string name="mtk_thememanager_title">Тема</string>
     <string name="default_name">По умолчанию</string>
@@ -1941,10 +1938,10 @@
     <string name="gadget_gps">GPS</string>
     <string name="gadget_sync">Синхронизация</string>
     <string name="gadget_brightness_template">Яркость: %1$s</string>
-    <string name="gadget_brightness_state_auto">авто</string>
-    <string name="gadget_brightness_state_full">макс.</string>
-    <string name="gadget_brightness_state_half">пол-на</string>
-    <string name="gadget_brightness_state_off">выкл</string>
+
+
+
+
 
     <string name="credentials_title">Хранилище сертификатов</string>
     <string name="credentials_install">Установка с SD-карты</string>
@@ -2727,8 +2724,6 @@
     <string name="bird_hand_title">Режим под правую или левую руку</string>
     <string name="lewa_applock_title">Блокировка приложений</string>
     <string name="lewa_applock_summary">Необходимо задать пароль перед блокировкой</string>
-    <string name="two_finger_update_brightness">Изменение яркости двумя пальцами</string>
-    <string name="two_finger_update_brightness_description">Яркость меняется свайпом двумя пальцами вверх или вниз по экрану</string>	
     <string name="locale_language_zh_cn">Китайский (упрощ.)</string>
     <string name="locale_language_zh_tw">Китайский</string>
     <string name="locale_language_en">Английский</string>
@@ -3066,7 +3061,7 @@
     <string name="factory_mode">Заводское меню</string>
     <string name="factory_mode_summary">Вход в режим заводских настроек и тестирование устройства</string>
     <string name="pach_number">Модифицированная версия</string>
-    <string name="pach_number_default">LEWA_WolKOgrYS_Mod</string>
+    <string name="pach_number_default">LEWA_WolkoGrys_Mod</string>
     <string name="homescreen">Виртуальная панель</string>
     <string name="homescreen2">Наэкранные клавиши</string>
     <string name="homescreen_summary">Вкл/выкл виртуальной панели клавиш Google</string>
@@ -3081,4 +3076,6 @@
     <string name="level_summary">Калибровка G-сенсора/акселерометра</string>
     <string name="em_settings_title">Инженерное меню</string>
     <string name="em_settings_adb_title">Тонкая настройка параметров телефона</string>
+    <string name="two_finger_update_brightness">Изменение яркости двумя пальцами</string>
+    <string name="two_finger_update_brightness_description">Яркость меняется свайпом двумя пальцами вверх или вниз по экрану</string>
 </resources>
