@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d недавних приложений</item>
-        <item quantity="one">1 недавнее приложение</item>
-    </plurals>
     <plurals name="notifilter_headernotice">
         <item quantity="other">%d сообщений заблокировано</item>
         <item quantity="one">%d сообщение заблокировано</item>
