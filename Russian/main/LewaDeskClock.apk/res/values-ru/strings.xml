@@ -117,8 +117,8 @@
     <string name="menu_multichoice_select_all">Выбрать всё</string>
     <string name="menu_multichoice_clear_select">Снять выделение</string>
     <string name="time_zh_str">Киев</string>
-    <string name="early_time">%1$s ч. %2$s мин. раньше</string>
-    <string name="later_time">%1$s ч. %2$s мин. позже</string>
+    <string name="early_time">%1$s ч. %2$s мин. позже</string>
+    <string name="later_time">%1$s ч. %2$s мин. раньше</string>
     <string name="current_timezone">Текущий часовой пояс</string>
     <string name="lab">Круг</string>
     <string name="left_text">Следующий будильник：</string>
